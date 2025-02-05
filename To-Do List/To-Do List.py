@@ -17,3 +17,5 @@ while True:
             print("Invalid task number!")
     elif action == "quit":
         break
+    else:
+        print("Invalid action!")
