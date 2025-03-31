@@ -1,4 +1,4 @@
 # Projects for Beginners 🚀
 
 ## Features
-- Beginner-friendly Python projects 💻.
+- Beginner-friendly Python projects 💻
